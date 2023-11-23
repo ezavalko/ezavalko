@@ -1,6 +1,6 @@
 <h2 align="center">Upwork Expert-Vetted with 15+ years commercial experience overall.</h3>
 
-<h2 align="center">Team leader | Adviser</h3>
+<h2 align="center">CTO | Team leader | Adviser</h3>
 
 <h2>Areas of Expertise:</h2>
     <ol>
